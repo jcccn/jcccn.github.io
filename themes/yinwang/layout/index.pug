@@ -1,0 +1,17 @@
+extends includes/layout.pug
+
+block content
+  include includes/recent-posts.pug
+
+  if (theme.paginator)
+    div(class="paginator")
+      -
+        var options = {
+          prev_text: 'Pre Page',
+          next_text: 'Next Page'
+        }
+      != paginator(options)
+
+  if theme.footer.display
+    div.footer
+      p.text-center= theme.footer.context
