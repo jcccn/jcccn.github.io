@@ -9,7 +9,7 @@ table {
 /* end reset CSS */
 
 body {
-  font-family:"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
   font-size: 18px;
 }
 
@@ -22,11 +22,11 @@ line-height: 1.8;
 }
 
 H1 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
 }
 
 H2 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
   margin-bottom: 60px;
   margin-bottom: 40px;
   padding: 5px;
@@ -38,7 +38,7 @@ H2 {
 
 
 H3 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
   margin-top: 40px;
   margin-bottom: 30px;
   border-bottom: 1px LightGrey solid;
@@ -49,7 +49,7 @@ H3 {
 
 
 H4 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
   margin-top: 40px;
   margin-bottom: 30px;
   border-bottom: 1px LightGrey solid;
@@ -78,7 +78,7 @@ blockquote {
 
 
 pre {
-  font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
   font-size: 80%;
   background-color: #F4F4F4;
   border: 1px solid #E0E0E0;
@@ -93,7 +93,7 @@ pre {
 
 
 code {
-  font-family: Inconsolata, Consolas, "DEJA VU SANS MONO", "DROID SANS MONO", Proggy, monospace;
+  font-family: "Source Code Pro", Courier, Helvetica, "Microsoft YaHei", STFangSong, "Songti SC", monospace, sans-serif;
 
   font-size: 85%;
   padding: 0px 4px;
